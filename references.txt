@@ -1,0 +1,13 @@
+﻿
+References:
+
+http://udacity.github.io/frontend-nanodegree-styleguide/
+
+http://udacity.github.io/frontend-nanodegree-styleguide/css.html
+
+https://developer.chrome.com/devtools/docs/workspaces
+
+http://getbootstrap.com/css/
+
+http://www.w3schools.com/css/
+
